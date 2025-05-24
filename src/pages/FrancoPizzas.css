@@ -1,0 +1,32 @@
+.menu-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.menu-container h1 {
+  font-size: 2.5rem;
+  color: #e94e1b;
+  margin-bottom: 1rem;
+}
+
+.menu-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu-container li {
+  margin-bottom: 0.5rem;
+}
+
+.extras {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.extras h3 {
+  margin-top: 0;
+  color: #444;
+}
